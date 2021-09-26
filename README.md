@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lor3walker
 - 👀 I’m interested in data analysis and mining
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ... No plan yet
+- 💞️ I’m looking to collaborate on recommender system
 - 📫 How to reach me: loreyd@qq.com
 
 <!---
